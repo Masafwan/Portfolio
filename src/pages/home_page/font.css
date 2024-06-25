@@ -1,0 +1,25 @@
+/* App.css */
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.main-name {
+  font-size: 4.1rem;
+  font-family: 'Itim', cursive;
+  font-weight: bold;
+}
+
+.heading-name {
+    font-size: 4.1rem;
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+  }
+
+  .heading {
+    font-size: 4.1rem;
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+  }
+
+  .type {
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+  }
